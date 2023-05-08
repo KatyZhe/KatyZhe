@@ -13,6 +13,5 @@ I’m currently learning HTML5, CSS3, JavaScript, React
 
 My skills:  
 
-<img src='https://user-images.githubusercontent.com/112477055/221278177-e1aaf8a7-1375-42bb-9e58-f941b1bc54d9.png' width='50px'>  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='50px'>  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='50px'>  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' width='50px'>  
-src='src='https://e7.pngegg.com/pngimages/117/744/png-clipart-node-js-javascript-express-js-software-developer-react-network-code-angle-text.png' width='50px'>
-' width='50px'>
+<img src='https://user-images.githubusercontent.com/112477055/221278177-e1aaf8a7-1375-42bb-9e58-f941b1bc54d9.png' width='50px'>  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' width='50px'>  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' width='50px'>  <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' width='50px'>  <img src='https://e7.pngegg.com/pngimages/117/744/png-clipart-node-js-javascript-express-js-software-developer-react-network-code-angle-text.png' width='50px'
+width='50px'>
