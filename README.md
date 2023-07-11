@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 My name is Katia </h1>  
 <h3 align="center">Frontend Developer / Web Developer</h3>
 
-I’m currently learning HTML5, CSS3, JavaScript, React  
+I’m currently working with HTML5, CSS3, JavaScript, React  
 
 <img src='https://www.codewars.com/users/Katy_Zhe/badges/small'>
 
